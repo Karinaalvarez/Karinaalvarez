@@ -13,6 +13,7 @@
 
 - 💬 I'm especially interested in web application development and currently focusing on becoming a Frontend Developer, strengthening my skills in HTML, CSS, JavaScript, and frameworks like React.
 - 🌱 I like to learn new things
+- 📫 How to reach me: alvarezkarina0609@gmail.com
 
   
 <p>
