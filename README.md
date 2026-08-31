@@ -11,7 +11,7 @@
 
 - 👩‍💻 I’m a Computer Engineering student, passionate about technology and always looking for new challenges to grow professionally.
 
-- 💬 I'm especially interested in web application development and currently focusing on becoming a Frontend Developer, strengthening my skills in HTML, CSS, JavaScript, and frameworks like React.
+- 💬 I'm especially interested in web application development and currently focusing on becoming a Full-Stack Developer, strengthening my skills in HTML, CSS, JavaScript, and frameworks like React and Angular, along with Node.js and Python on the back end.
 - 🌱 I like to learn new things
 - 📫 How to reach me: alvarezkarina0609@gmail.com
 
